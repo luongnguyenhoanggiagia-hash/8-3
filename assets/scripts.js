@@ -47,7 +47,7 @@ const textList = [
   "Chúc bạn luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!",
   "Mỗi ngày của bạn đều là một đoá hoa nở rộ.",
   "Cảm ơn bạn vì đã luôn mạnh mẽ và tuyệt vời như thế!",
-  "Chúc bạn một ngày 20/10 thật hạnh phúc và trọn vẹn!",
+  "Chúc bạn một ngày 8/3 thật hạnh phúc và trọn vẹn!",
   "Bạn là món quà tuyệt vời nhất mà cuộc sống mang lại!",
 ];
 
